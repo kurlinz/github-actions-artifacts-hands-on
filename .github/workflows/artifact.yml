@@ -28,5 +28,5 @@ jobs:
         with:
           name: hello-artifact
       - name: display-file
-        run: cat ./artifacts/hello.txt
+        run: cat hello.txt
      
